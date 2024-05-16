@@ -1,0 +1,32 @@
+Game Number: 1
+Game Guess: Correct - 1 Guess
+Guesses Made: 1
+
+Game Number: 2
+Game Guess: Correct - 1 Guess
+Guesses Made: 1
+
+Game Number: 3
+Game Guess: Correct - 1 Guess
+Guesses Made: 1
+
+Game Number: 4
+Game Guess: Correct - 1 Guess
+Guesses Made: 1
+
+Game Number: 5
+Game Guess: Correct - 1 Guess
+Guesses Made: 1
+
+Game Number: 6
+Game Guess: Correct - 1 Guess
+Guesses Made: 1
+
+Game Number: 7
+Game Guess: Correct - 2 Guesses!
+Guesses Made: 2
+
+Game Number: 8
+Game Guess: Correct - 3 Guesses!
+Guesses Made: 3
+
